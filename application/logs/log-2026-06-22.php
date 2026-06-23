@@ -7,3 +7,7 @@ FROM `ci_sessions`
 WHERE `id` = '5p6a8ivgvkbgv7ecmka54ipe7e16d1la'
 ERROR - 2026-06-22 21:10:11 --> Severity: Warning --> session_write_close(): Cannot call session save handler in a recursive manner Unknown 0
 ERROR - 2026-06-22 21:10:11 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php74) Unknown 0
+ERROR - 2026-06-22 21:30:47 --> 404 Page Not Found: Theme/dist
+ERROR - 2026-06-22 21:30:48 --> 404 Page Not Found: Theme/dist
+ERROR - 2026-06-22 21:30:58 --> 404 Page Not Found: Theme/dist
+ERROR - 2026-06-22 21:30:58 --> 404 Page Not Found: Theme/dist
