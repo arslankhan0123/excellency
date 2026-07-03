@@ -75,7 +75,7 @@ body {
 	z-index:800
 }
 .main-footer {
-	background:#fff;
+	background:#28ACE2;
 	padding:15px;
 	color:#444;
 	border-top:1px solid #d2d6de
@@ -2832,7 +2832,7 @@ table.text-center,table.text-center td,table.text-center th {
 	color:#666
 }
 .login-box-body .form-control-feedback,.register-box-body .form-control-feedback {
-	color:#777
+	color:#28ACE2
 }
 .login-box-msg,.register-box-msg {
 	margin:0;
